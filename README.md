@@ -1,24 +1,26 @@
-Hi there! 👋 I'm Ekaterina, a Cultural and administrative manager looking to grow in the IT world.
+Hello! 👋 My name is Ekaterina, and I work as a Cultural and Administrative Manager. Recently, I've been eager to explore opportunities in the IT world to further my career.
 
-Education
-•	Bachelor Degree: Audiovisual Communications (Graduated: Dec 2012)
+Education:
+• I hold a Bachelor's Degree in Audiovisual Communications, which I completed in December 2012.
 
-Skills Acquired
-During my studies, I gained some knowledge in various technologies and programming languages. Some of the skills I acquired include:
-•	HTML & CSS: Proficient in creating and styling web pages using HTML and CSS.
-•	Java Script: Familiarity with object-oriented programming principles and hands-on experience with JS development.
-•	Python: Basic knowledge of Python and its role in server-side web development.
-•	MySQL: Understanding of relational databases and practical experience in using MySQL for data management.
+Skills:
+During my academic journey, I gained valuable knowledge in various technologies and programming languages, including:
+• Proficiently creating and styling web pages using HTML and CSS.
+• Acquiring familiarity with object-oriented programming principles and gaining hands-on experience in JavaScript development.
+• Obtaining a basic understanding of Python and its applications in server-side web development.
+• Gaining practical experience in using MySQL for data management, along with knowledge of relational databases.
 
-Bootcamp and Certifications
-•	UI/UX Design: Coderhouse (2023) 
-•	Full stack Python: Codo a codo (2023)
-•	Full stack JavaScript/Node.js: Codo a codo (2023)
-•	EFSET English Proficiency Certificate: C2 (81/100)
+Certifications:
+To supplement my skills, I have obtained some certifications:
+• UI/UX Design from Coderhouse (2023)
+• Full stack Python from Codo a codo (2023)
+• Full stack JavaScript/Node.js from Codo a codo (2023)
+• EFSET English Proficiency Certificate: C2 level (81/100)
 
-Current Endeavors
-🌱 I’m currently learning JavaScript/Node.js to deepen my knowledge of web development.
+Current Endeavors:
+At the moment, I'm dedicating myself to learning JavaScript/Node.js to enhance my web development expertise.
 
+I'm excited about this new direction in my career and the possibilities it holds. Should you have any questions or require assistance, please don't hesitate to ask! 😊
 
 
 
